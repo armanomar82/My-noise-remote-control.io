@@ -259,22 +259,22 @@ global
         cursor: grabbing;
         }
         main > ul > li:nth-of-type(1){
-            background: url(img/gots.jpeg);
+            background: url(img/rin.jpeg)no-repeat center center/cover;
         }
         main > ul > li:nth-of-type(2){
-            background: url(img/IL201801112002484262.jpg_600x800x80.jpg) no-repeat center center/cover;
+            background: url(img/army.jpg) no-repeat center center/cover;
             
         }
         main > ul > li:nth-of-type(3){
-            background: url(img/telephone-art.png)no-repeat center center/cover;
+            background: url(img/airsoft.jpg)no-repeat center center/cover;
         }
         main > ul > li:nth-of-type(4){
-            background: url(img/child-sad.jpeg)no-repeat center center/cover;
+            background: url(img/door.jpg)no-repeat center center/cover;
         }
         main > ul > li:nth-of-type(5){
-            background: url(img/horse.jpeg)no-repeat center center/cover;
+            background: url(img/ninja.jpg)no-repeat center center/cover;
         }main > ul > li:nth-of-type(6){
-            background: url(img/child-happy.jpeg)no-repeat center center/cover;
+            background: url(img/fear.jpg)no-repeat center center/cover;
         }
     
         footer {
